@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Starbucks Capstone Challenge
 
 ### Summary
 
